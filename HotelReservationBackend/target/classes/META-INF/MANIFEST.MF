@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: HotelReservation
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sakshi kande
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_401
+Implementation-URL: https://spring.io/projects/spring-boot/HotelReserv
+ ation
+Created-By: Maven Integration for Eclipse
+
